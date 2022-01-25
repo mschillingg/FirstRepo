@@ -20,6 +20,8 @@ Also it would be nice to add a list. Here we go:
 ## Emoji
 🍎
 
+## Fancy text
+
 **This is bold text**
 
 *This is italicized*
